@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - Ladder
+  - Monster
   layers:
   - Default
   - TransparentFX
