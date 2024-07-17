@@ -7,6 +7,10 @@ TagManager:
   - CinemachineTarget
   - Ladder
   - Monster
+  - Door
+  - trap
+  - Target
+  - r
   layers:
   - Default
   - TransparentFX
