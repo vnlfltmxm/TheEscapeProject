@@ -11,11 +11,10 @@ TagManager:
   - trap
   - Target
   - r
-  - 'TrapRoomDoor '
-  - 'SaveRoom '
-  - 'Boss '
   - Reflect
-  - Refraction
+  - Reflection
+  - FlashBang
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -23,8 +22,8 @@ TagManager:
   - 
   - Water
   - UI
-  - groundLayer
-  - 'Thorn '
+  - 
+  - 
   - 
   - 
   - 
