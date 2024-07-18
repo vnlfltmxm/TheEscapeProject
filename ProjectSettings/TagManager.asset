@@ -15,6 +15,7 @@ TagManager:
   - Reflection
   - FlashBang
   - Boss
+  - TrapRoomDoor
   layers:
   - Default
   - TransparentFX
